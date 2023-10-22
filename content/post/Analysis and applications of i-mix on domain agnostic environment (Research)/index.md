@@ -12,3 +12,5 @@ categories: ["ML", "Research"]
 
 
 ### **For full research report paper : [Full report paper 📄](./Analysis_and_applications_of_i-mix_on_domain_agnostic_environment_(Research).pdf)**
+
+**For some issues in mobile IOS, You can download PPT here, [PPT file📄](ppt.pdf)**
