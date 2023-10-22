@@ -8,4 +8,4 @@ categories: ["Data Science", "Paper Review"]
 
 ## Research presentation PPT 
  
-<iframe src="https://kaistackr-my.sharepoint.com/personal/krait_kaist_ac_kr/_layouts/15/Doc.aspx?sourcedoc={ed4e2e4a-94ce-4696-8e68-bad73045ee47}&amp;action=embedview&amp;wdAr=1.7777777777777777" style="display:block; width:60vw; height: 72vh"></iframe>
+<iframe src= ppt.pdf#toolbar=0&navpanes=0 style="display:block; width:60vw; height: 72vh"></iframe>

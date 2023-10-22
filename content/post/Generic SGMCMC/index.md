@@ -1,7 +1,7 @@
 ---
-title: "[Paper Review] Unsupervised Learning of Visual Features by Contrasting Cluster Assignments" 
-description: M Caron et al., NeurIPS 2020
-date: 2023-10-22 00:04:08+0000
+title: "[Paper Review] A Complete Recipe for Stochastic Gradient MCMC" 
+description: YA Ma et al., NeurIPS 2015
+date: 2023-10-22 00:05:00+0000
 categories: ["ML", "Paper Review"]
 ---
 

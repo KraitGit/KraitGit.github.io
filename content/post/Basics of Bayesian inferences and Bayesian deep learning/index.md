@@ -8,4 +8,4 @@ categories: ["ML", "Study"]
 
 ## Research presentation PPT 
 
-<iframe src="https://kaistackr-my.sharepoint.com/personal/krait_kaist_ac_kr/_layouts/15/Doc.aspx?sourcedoc={ab5748e2-9e37-4ffa-a4c0-002ea0e690b7}&amp;action=embedview&amp;wdAr=1.7777777777777777" style="display:block; width:60vw; height: 72vh"></iframe>
+<iframe src= ppt.pdf#toolbar=0&navpanes=0 style="display:block; width:60vw; height: 72vh"></iframe>
