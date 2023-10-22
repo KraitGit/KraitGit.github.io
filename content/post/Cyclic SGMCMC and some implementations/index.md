@@ -9,4 +9,4 @@ categories: ['ML', 'Paper Review' ]
 
 ## Research presentation PPT 
 
-<iframe src="https://kaistackr-my.sharepoint.com/personal/krait_kaist_ac_kr/_layouts/15/Doc.aspx?sourcedoc={c9dab476-a9dc-47cc-888b-205ff03de9dd}&amp;action=embedview&amp;wdAr=1.7777777777777777" style="display:block; width:60vw; height: 72vh"></iframe>
+<iframe src="https://kaistackr-my.sharepoint.com/:p:/g/personal/krait_kaist_ac_kr/EXa02sncqcxHiIsgX_A96d0BlaOsBYhWsnqz5D06uZgO7w?e=MtAfyw&amp;action=embedview&amp;wdAr=1.7777777777777777" style="display:block; width:60vw; height: 72vh"></iframe>
