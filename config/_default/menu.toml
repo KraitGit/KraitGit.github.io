@@ -19,7 +19,7 @@ icon = "brand-github"
 [[social]]
 identifier = "CV"
 name ="CV"
-url = "https://KraitGit.github.io/assets/docs/CV_KIJUNG_JEON.pdf"
+url = "https://KraitGit.github.io/CV_KIJUNG_JEON.pdf"
 
 [[social.params]]
 icon = "CV"
