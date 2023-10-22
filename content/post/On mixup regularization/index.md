@@ -7,5 +7,5 @@ categories: ["ML", "Paper Review"]
 
 
 ## Research presentation PPT 
-dd
+
 <iframe src= ppt.pdf#toolbar=0&navpanes=0 style="display:block; width:60vw; height: 72vh"></iframe>
