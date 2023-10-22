@@ -8,4 +8,4 @@ categories: ["ML", "Paper Review"]
 
 ## Research presentation PPT 
 
-<iframe src= ppt.pdf#toolbar=0&navpanes=0 style="display:block; width:60vw; height: 72vh"></iframe>
+<iframe src= ppt.pdf#toolbar=0&navpanes=0 style="display:block; width:60vw; height: 72vh", enable_ios_mobile_scolling="true"></iframe>
