@@ -10,4 +10,4 @@ categories: ["ML", "Paper Review"]
 
 <iframe src= ppt.pdf#toolbar=0&navpanes=1 style="display:block; width:60vw; height: 72vh"></iframe>
 
-**For some issues in mobile IOS, You can download here, [PPT file📄](ppt.pdf)**
+**For some issues in mobile IOS, You can download here, [PPT file📄](ppt.pdf)** 
