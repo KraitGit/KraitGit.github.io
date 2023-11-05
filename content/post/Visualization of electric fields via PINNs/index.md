@@ -6,7 +6,7 @@ categories: ["ML", "Research"]
 ---
 
 
-## Research paper PPT 
+## Research paper PPT  
 
 <iframe src= ppt.pdf#toolbar=0&navpanes=1 style="display:block; width:60vw; height: 72vh"></iframe>
 
