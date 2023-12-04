@@ -11,5 +11,5 @@ categories: ["Data Science", "Research"]
 <iframe src= ppt.pdf#toolbar=0&navpanes=0 style="display:block; width:60vw; height: 72vh"></iframe>
 
 
-### **For full research report paper : [Full report paper 📄](./An efficient clustering algorithm for mixtures of high-dimensional iso-tropic Gaussians.pdf)**
+### **For full research report paper : [Full report paper 📄](./An_efficient_clustering_algorithm_for_mixtures_of_high-dimensional_iso-tropic_Gaussians.pdf)**
 
