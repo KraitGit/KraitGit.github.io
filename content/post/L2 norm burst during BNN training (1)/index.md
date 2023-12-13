@@ -1,7 +1,7 @@
 ---
 title: "[Research] L2 norm burst during BNN training (1)" 
 description: On-going project
-date: 2023-11-21 00:04:11+0000
+date: 2023-11-22 00:04:11+0000
 categories: ["ML", "Research"]
 ---
 
