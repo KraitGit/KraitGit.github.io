@@ -6,7 +6,7 @@ categories: ["ML", "Research"]
 ---
 
 
-## Research presentation PPT 
+## Research presentation PDF 
 
 <iframe src= ppt.pdf#toolbar=0&navpanes=0 style="display:block; width:60vw; height: 72vh"></iframe>
 
