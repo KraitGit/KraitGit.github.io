@@ -1,7 +1,7 @@
 ---
 title: "[Research] Visualization of electric fields via PINNs" 
 description: In-class project on SciML
-date: 2023-10-22 00:04:03+0000
+date: 2023-11-22 00:04:03+0000
 categories: ["ML", "Research"]
 ---
 

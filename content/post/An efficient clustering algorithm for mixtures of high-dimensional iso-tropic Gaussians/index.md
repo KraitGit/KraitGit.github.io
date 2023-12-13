@@ -1,7 +1,7 @@
 ---
 title: "[Research] An efficient clustering algorithm for mixtures of high-dimensional iso-tropic Gaussians" 
 description: In-class Project
-date: 2023-10-22 00:04:10+0000
+date: 2023-11-22 00:04:10+0000
 categories: ["Data Science", "Research"]
 ---
 
